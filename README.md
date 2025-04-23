@@ -5,3 +5,4 @@ First, we have to start a reverse shell listener in our VM or AttackBox that wil
 
 nc -lvnp 4444
 
+python 3.8.10
